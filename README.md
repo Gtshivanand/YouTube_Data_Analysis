@@ -1,13 +1,15 @@
-Youtube Video Statistics 
+# Youtube Video Statistics 
  
-Abstract: 
+# Abstract: 
 YouTube (the world-famous video sharing website) maintains a list of the top trending videos on the platform. According to Variety magazine, to determine the year's top- trending videos, YouTube uses a combination of factors including measuring users interactions (number of views, shares, comments and likes). Note: that they’re not the most-viewed videos overall for the calendar year. 
-Problem Statement: Read the youtube data and perform exploratory data analysis. 
+
+# Problem Statement: Read the youtube data and perform exploratory data analysis. 
  
  
-Dataset Information: 
+# Dataset Information: 
 This dataset is the daily record from the top trending YouTube videos. Top 200 trending videos of a given day. Original Data was collected during 14th November 2017 & 5th March 2018(though, data for January 10th & 11th of 2017 is missing). Original dataset was collected by Youtube API. 
  
+# 
 Variable Description: 
  
 Column 	Description 
@@ -34,9 +36,22 @@ Views 	Target variable. Number of views for particular video
  
  
  
-Scope: 
+# Scope: 
+
 ●	Sentiment analysis in a variety of forms 
+
 ●	Categorising YouTube videos based on their comments and statistics. 
+
 ●	Training ML algorithms like RNNs to generate their own YouTube comments. 
+
 ●	Analysing what factors affect how popular a YouTube video will be. 
+
 ●	Statistical analysis over time 
+
+## Contact
+
+For any inquiries or suggestions, feel free to reach out:
+
+- **Email:** [shivanandnashi97@gmail.com](mailto:shivanandnashi97@gmail.com)
+- **LinkedIn:** [Shivanand Nashi](https://www.linkedin.com/in/shivanand-s-nashi-79579821a)
+
