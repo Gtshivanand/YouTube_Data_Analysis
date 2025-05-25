@@ -1,4 +1,6 @@
-# Youtube Video Statistics 
+# Youtube Data Analysis
+
+<img src="https://github.com/Gtshivanand/YouTube_Data_Analysis/blob/main/Youtube.jpg"/>
  
 # Abstract: 
 YouTube (the world-famous video sharing website) maintains a list of the top trending videos on the platform. According to Variety magazine, to determine the year's top- trending videos, YouTube uses a combination of factors including measuring users interactions (number of views, shares, comments and likes). Note: that they’re not the most-viewed videos overall for the calendar year. 
